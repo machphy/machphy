@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rajeev Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=machphy&label=Profile%20views&color=0e75b6&style=flat" alt="machphy" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=machphy" alt="machphy" /></a> </p>
 
 - 🔭 I’m currently working on **Front End Development (UI)**
 
 - 🌱 I’m currently learning **Full Stack Development**
+
+- 📫 How to reach me **rajeevsharmamachphy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
