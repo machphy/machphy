@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=machphy" alt="machphy" /></a> </p>
 
-- 🔭 I’m currently working on **Front End Development (UI)**
+- 🔭 I’m currently working on **Front End Development (UI/UX)**
 
 - 🌱 I’m currently learning **Full Stack Development**
 
