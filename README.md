@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Python [AI / ML](Comming soon)
 
-- 🌱 I’m currently learning **ML . Full Stack Development**
+- 🌱 I’m currently learning ** ML(Beginner) & Full Stack Development **
 
 - 🤝 I’m looking for help with **Web Development (Frontend Devlopment)**
 
