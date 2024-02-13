@@ -17,7 +17,7 @@
 
 - 📄 Know about my experience [https://drive.google.com/file/d/1uI0H8wxisur2pfs1cgY9WU1Zeq4CsPOV/view?usp=drivesdk](https://drive.google.com/file/d/1uI0H8wxisur2pfs1cgY9WU1Zeq4CsPOV/view?usp=drivesdk)
 
-- ⚡ Fun fact **I'm sleepy 🥱**
+- ⚡ Fun fact **I'm good programmer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
