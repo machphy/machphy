@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=machphy" alt="machphy" /></a> </p>
 
-- 🔭 I’m currently working on Python [AI / ML](Comming soon)
+- 🔭 I’m currently working on **Python [AI / ML](Comming soon)**
 
 - 🌱 I’m currently learning **ML(Beginner) & Full Stack Development**
 
