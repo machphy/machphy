@@ -13,11 +13,11 @@
 
 - 💬 Ask me about **HTML CSS JS Python Program**
 
-- 📫 How to reach me **rajeevproject116@gmail.com**
+- 📫 How to reach me **rajeevsharmamachphy@gmail.com**
 
 - 📄 Know about my experience [https://drive.google.com/file/d/1uI0H8wxisur2pfs1cgY9WU1Zeq4CsPOV/view?usp=drivesdk](https://drive.google.com/file/d/1uI0H8wxisur2pfs1cgY9WU1Zeq4CsPOV/view?usp=drivesdk)
 
-- ⚡ Fun fact **I'm good programmer**
+- ⚡ Fun fact **I'm good Engineer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
