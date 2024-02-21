@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rajeev Sharma</h1>
+<h1 align="center">Hi 👋, I'm Rajeev</h1>
 <h3 align="center">Full Stack Developer beginning in AI and ML</h3>
 
 I'm Rajeev, currently immersed in my Grad'25 studies. With a keen focus on crafting robust and scalable solutions, I eagerly embrace continuous learning and strive to share my expertise as openly as possible. If you've found value in anything I've created, please don't hesitate to connect via email (rajeevsharmamachphy@gmail.com). Feel free to reach out for any inquiries or just to stay in touch. I'm always eager to evolve and make improvements.
