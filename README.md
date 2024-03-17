@@ -11,6 +11,7 @@ I'm Rajeev, currently immersed in my Grad'25 studies. With a keen focus on craft
 - 🔭 I’m currently working on **Python [AI / ML](Comming soon)**
 
 - 🌱 I’m currently learning **ML(Beginner) & Full Stack Development**
+- 💻 My Website https://rajeevv.netlify.com/
 
 - 🤝 I’m looking for help with **Web Development (Frontend Devlopment)**
 
