@@ -24,7 +24,7 @@ I'm Rajeev, currently immersed in my Grad'25 studies. With a keen focus on craft
 
 - 📫 How to reach me **rajeevsharmamachphy@gmail.com**
 
-- 📄 Know about my experience [https://drive.google.com/file/d/1uI0H8wxisur2pfs1cgY9WU1Zeq4CsPOV/view?usp=drivesdk](https://drive.google.com/file/d/1uI0H8wxisur2pfs1cgY9WU1Zeq4CsPOV/view?usp=drivesdk)
+- 📄 Know about my experience [https://drive.google.com/file/d/1uI0H8wxisur2pfs1cgY9WU1Zeq4CsPOV/view?usp=drivesdk](https://drive.google.com/file/d/16CdBar9Psbcn4Pfa5FBEBCVUW3SO_nlg/view?usp=sharing)
 
 - ⚡ Fun fact **I'm good Engineer**
 
