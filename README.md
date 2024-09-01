@@ -9,7 +9,7 @@ I'm Rajeev, a Grad'25 student focused on creating robust and scalable solutions.
 
 - 🔭 Working on **Python [AI / ML](#)**
 - 🌱 Learning **ML (Beginner) & Full Stack Development**
-- 💻 My Website: [rajeevv.netlify.com](https://rajeevv.netlify.com/)
+- 💻 My Website: [rajeevv.netlify.com](https://rajeevv.netlify.app/)
 - 🤝 Seeking help with **Frontend Development**
 - 💬 Ask me about **HTML, CSS, JS, Python**
 - 📫 Reach me at **rajeevsharmamachphy@gmail.com**
