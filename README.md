@@ -16,55 +16,32 @@ I'm Rajeev, a Grad'25 student focused on creating robust and scalable solutions.
 - 📄 [My Experience](https://drive.google.com/file/d/16CdBar9Psbcn4Pfa5FBEBCVUW3SO_nlg/view?usp=sharing)
 - ⚡ Fun fact: **I'm a good engineer**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  </a>
-  <a href="https://svelte.dev" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=machphy&show_icons=true&locale=en&layout=compact" alt="machphy" />
-</p>
+<img src="./icons/HTML.svg" style="width: 30px" /> HTML
+<img src="./icons/CSS.svg" style="width: 30px" /> CSS
+<img src="./icons/Bootstrap.svg" style="width: 30px" /> Bootstrap
+<img src="./icons/JQuery.svg" style="width: 30px" /> jQuery
+<img src="./icons/JavaScript.svg" style="width: 30px" /> JavaScript
+<img src="./icons/PHP-Dark.svg" style="width: 30px" /> PHP
+<img src="./icons/Laravel-Dark.svg" style="width: 30px" /> Laravel
+<img src="./icons/Django.svg" style="width: 30px" /> Django
+<img src="./icons/NodeJS-Dark.svg" style="width: 30px" /> Node.js
+<img src="./icons/ExpressJS-Dark.svg" style="width: 30px" /> Express.js
+<img src="./icons/React-Dark.svg" style="width: 30px" /> React.js
+<img src="./icons/Git.svg" style="width: 30px" /> Git
+<img src="./icons/Github-Dark.svg" style="width: 30px" /> GitHub
+<img src="./icons/C.svg" style="width: 30px" /> C
+<img src="./icons/CPP.svg" style="width: 30px" /> C++
+<img src="./icons/Docker.svg" style="width: 30px" /> Docker
+<img src="./icons/PyTorch-Dark.svg" style="width: 30px" /> PyTorch
+<img src="./icons/ScikitLearn-Dark.svg" style="width: 30px" /> Scikit-Learn
+<img src="./icons/OpenCV-Dark.svg" style="width: 30px" /> OpenCV
+<img src="./icons/MySQL-Dark.svg" style="width: 30px" /> MySQL
+<img src="./icons/Heroku.svg" style="width: 30px" /> Heroku
+<img src="./icons/PyCharm-Light.svg" style="width: 30px" /> Python
+<img src="./icons/Redux.svg" style="width: 30px" /> Redux
+<img src="./icons/Arduino.svg" style="width: 30px" /> Arduino
+<img src="./icons/Kali-Dark.svg" style="width: 30px" /> Linux
+<img src="./icons/Pkl-Dark.svg" style="width: 30px" /> Pickle
+<img src="./icons/SQLite.svg" style="width: 30px" /> SQLite
+<img src="./icons/TailwindCSS-Dark.svg" style="width: 30px" /> Tailwind CSS
+<img src="./icons/Ubuntu-Dark.svg" style="width: 30px" /> Ubuntu
