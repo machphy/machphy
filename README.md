@@ -78,18 +78,6 @@ Data Analysis:
 
 ---
 
-### 📊 GitHub Stats & Streaks
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Machphy&count_private=true&show_icons=true&theme=tokyonight" alt="Rajeev's GitHub stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Machphy&theme=tokyonight" alt="GitHub Streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Machphy&layout=compact&theme=tokyonight" alt="Most Used Languages"/>
-</p>
-
----
-
 ### 📂 Featured Projects
 
 | 🛠️ Project | 🌟 Star | 🍴 Fork | 🔗 Link |
