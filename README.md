@@ -30,7 +30,6 @@ Frameworks & Libraries:
 
 Tools & Platforms:
   - Docker 🐳
-  - Kubernetes ☸️
   - Google Cloud Platform ☁️
   - Git/GitHub 🐙
 
