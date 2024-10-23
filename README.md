@@ -14,42 +14,6 @@
 
 ---
 
-### 🌱 What I'm Working On
-```python
-class Life(Creativity):
-    def __init__(self):
-        self.name = "Rajeev Sharma"
-        self.current_role = "ML Intern"
-    
-    def current_projects(self):
-        self.learning = "Engineering 📚"
-        self.building = "On My Projects 🌱"
-        self.excited_for = "Site Reliability Engineering 💡"
-        return {
-            "Learning": self.learning,
-            "Working On": self.building,
-            "Excited For": self.excited_for
-        }
-    
-    def contact(self):
-        return f"📧 Feel free to reach me at: rajeevsharmamachphy@gmail.com"
-    
-    def star_repo(self, repo_url):
-        return f"⭐ Star this repo: {repo_url}"
-    
-    def fork_repo(self, repo_url):
-        return f"🍴 Fork this repo: {repo_url}"
-
-if __name__ == "__main__":
-    my_life = Life()
-    print(my_life.current_projects())
-    print(my_life.contact())
-    print(my_life.star_repo("https://github.com/machphy/Real-Time-Cyber-Incident-Monitoring-and-Analysis-Tool"))
-    print(my_life.fork_repo("https://github.com/machphy/TubeMetrics-Advanced-Analysis-for-YouTube-Channels"))
-```
-
----
-
 ### 💻 Tech Stack & Tools
 
 ```yaml
