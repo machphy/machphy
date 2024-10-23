@@ -19,7 +19,6 @@
 ```yaml
 Programming Languages:
   - Python 🐍
-  - JavaScript 🌐
   - SQL 🗄️
 
 Frameworks & Libraries:
