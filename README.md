@@ -3,10 +3,6 @@
 <h3 align="center">Machine Learning Enthusiast | ML Intern | Engineering Student</h3>
 
 <p align="center">
-  <em>“Building the future with AI-driven solutions.”</em>
-</p>
-
-<p align="center">
   <a href="mailto:rajeevsharmamachphy@gmail.com">📧 Contact Me</a> • 
   <a href="https://www.linkedin.com/in/rajeev-sharma">🔗 LinkedIn</a> • 
   <a href="https://github.com/machphy">🐙 GitHub</a>
