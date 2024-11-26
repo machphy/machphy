@@ -1,7 +1,6 @@
 
 <h1 align="center">👋 Hey there, I'm <a href="https://www.linkedin.com/in/rajeev-sharma-b0b10324b/">Rajeev Sharma</a></h1>
-<h2 align="center">SDE Intern@Airtel</h2>
-<h3 align="center"> ML Devloper</h3>
+
 
 <p align="center">
   <a href="mailto:rajeevsharmamachphy@gmail.com">📧 Contact Me</a> • 
