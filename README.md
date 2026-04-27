@@ -17,7 +17,7 @@ Focused on vulnerability discovery, web application security, Soc and offensive 
 
 I spend a significant amount of time asking: *“what happens if this assumption is wrong?”* — and then proving that it often is.
 
-- **Research Areas:** Web Security, Vulnerability Research, Penetration Testing  
+- **Working Areas:** Web Security, Vulnerability Research, Penetration Testing  
 - **Special Interests:** Reconnaissance, Attack Surface Enumeration, Exploit Development  
 - **Notable Contribution:** Discovered and reported **CVE-2025-67485**
 
@@ -37,5 +37,3 @@ I spend a significant amount of time asking: *“what happens if this assumption
 
 ---
 
-## Philosophy
-> “Systems don’t fail randomly — they fail exactly where no one bothered to look.”
