@@ -1,3 +1,3 @@
 **Rajeev Sharma**
 
-- [GitHub](https://github.com/machphy) | [LinkedIn](https://www.linkedin.com/in/rajeev-sharma-b0b10324b/) | rajeevsharmamachphy@gmail.com | [credly](https://www.credly.com/users/rajeev-sharma.an79053)
+- [GitHub](https://github.com/machphy) | [LinkedIn](https://www.linkedin.com/in/rajeev-sharma-b0b10324b/) | rajeevsharmamachphy@gmail.com | [credly](https://www.credly.com/users/rajeev-sharma.an79053) | [CVE-2025-67485](https://nvd.nist.gov/vuln/detail/CVE-2025-67485)
